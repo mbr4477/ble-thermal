@@ -1,5 +1,5 @@
 # BLE Thermal Camera
-Using BLE on a Particle Xenon to stream thermal camera data. The `web` folder contains an example web page that connects to the Xenon via BLE and displays the thermal image.
+Using BLE on a Particle Xenon to stream thermal camera data. The `docs` folder (named to work with GitHub pages) contains an example web page that connects to the Xenon via BLE and displays the thermal image. You can view this page at https://mbr4477.github.io/ble-thermal.
 
 ## Setup
 1. Install AMG88xx library: `particle library add Adafruit_AMG88xx`
